@@ -228,6 +228,9 @@
         {
             "acrylicOpacity" : 0.5,
             "background" : "#012456",
+            "background": "#012456",
+            "backgroundImage": "C:\\Users\\Oscar\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\RoamingState\\the_knights.gif",
+            "backgroundImageOpacity": 0.69999998807907104,
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "powershell.exe",
