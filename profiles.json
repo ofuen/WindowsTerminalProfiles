@@ -205,6 +205,10 @@
     [
         {
             "acrylicOpacity" : 0.5,
+            "background": "#012456",
+            "backgroundImage": "C:\\Users\\Oscar\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\RoamingState\\lukeboba.gif",
+            "backgroundImageOpacity": 0.69999998807907104,
+            "backgroundImageStretchMode": "uniformToFill",
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "C:\\Program Files\\PowerShell\\6\\pwsh.exe",
