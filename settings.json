@@ -52,11 +52,11 @@
         {
           // Make changes here to the git.exe profile.
           //"backgroundImage": "https://media.giphy.com/media/QaFKMVEP8FvSo/giphy.gif",
-          "guid": "{00000000-0000-0000-0000-000000012345}",
-          "name": "Git",
+          "guid": "{abc00000-0000-0000-0000-000000000000}",
+          "name": "Git-Bash",
           "commandline": "C:/Program Files/Git/bin/bash.exe --login",
-          "icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
-          "hidden": false
+          "icon": "%PROGRAMFILES%\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+          "startingDirectory": "~"
         },
         {
           "backgroundImage": "https://media.giphy.com/media/2dMR27Z7ipMkM/giphy.gif",
